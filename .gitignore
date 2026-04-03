@@ -1,4 +1,6 @@
 model/__pycache__
+model/siglip2-base-p16-ve
+trainer/__pycache__
 out
 website/
 docs-minimind-v/
